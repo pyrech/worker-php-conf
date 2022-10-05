@@ -3,6 +3,5 @@ version: '3'
 services:
 ###> doctrine/doctrine-bundle ###
   database:
-    ports:
-      - "5432"
+    network_mode: host
 ###< doctrine/doctrine-bundle ###
