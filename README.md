@@ -2,6 +2,8 @@
 
 Application de démo pour la conférence donnée au Forum PHP 2022.
 
+Slides : [https://speakerdeck.com/pyrech/des-workers-php-avec-symfony-messenger-et-systemd](https://speakerdeck.com/pyrech/des-workers-php-avec-symfony-messenger-et-systemd)
+
 ## Installer le projet
 
 ```bash
